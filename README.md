@@ -1,4 +1,5 @@
 # Elite101Prework
 For Code2College Qualifier
 Elite 101 Program
-Update for clarity
+Chatbot Prework from Replit
+Updated from Replit
