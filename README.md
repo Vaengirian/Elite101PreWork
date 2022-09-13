@@ -1,2 +1,2 @@
-# Elite101PreWork
-It's a chatbot
+# Elite101Prework
+For Code2College Qualifier
