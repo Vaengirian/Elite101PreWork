@@ -1,5 +1,6 @@
 import random
 #Ian Chung
+#Elite 101 Chatbot
 #Chat program
 #Based off lagrassom's chatbot0.1
 def generate_response(user_input, randex): #response generator
