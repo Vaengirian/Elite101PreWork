@@ -3,3 +3,4 @@ For Code2College Qualifier
 Elite 101 Program
 Chatbot Prework from Replit
 Updated from Replit
+Updated README again for clarity
